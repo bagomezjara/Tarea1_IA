@@ -8,7 +8,8 @@ g++ main.cpp -o main
 
 en la terminal para compilar ejecutar:
 
-./main 
+./main
+
 para correr el programa
 
 El programa pedira el archivo al cual se le desea hacer las distintas busquedas, pero en este codigo solo esta implementado la captacion del nodo inicial y final, todo lo demas esta hardcodeado dentro del codigo, por lo que solo funcionara con los datos del archivo que se encuentra en este repositorio. Aún así pide el nombre del archivo por lo que si se desea cambiar el nodo inicial y final, es posible ejecutar el codigo para hacer la busqueda con el archivo modificado.
